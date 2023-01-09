@@ -1,5 +1,6 @@
 # (SENAI) Desafio do Módulo Frontend Web 
-{Ecommerce - Loja de Games}.
+
+##{Ecommerce - Loja de Games}
 
 ## Criei neste projeto de estudos do Senai, uma Home Page para uma loja fictícia especializada em Games, onde também criei uma página de login e uma outra de cadastro de novos usuários. 
 
