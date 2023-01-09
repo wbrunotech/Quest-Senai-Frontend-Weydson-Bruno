@@ -13,7 +13,3 @@ O projeto pode ser visualizado clicando aqui --> https://weybruno.github.io/Ques
 - HTML5
 - CSS3
 - JavaScript
-
-<div>
-<img align="center" alt="resenha-pic" height="100%" style="border-radius:50px;" src="https://giphy.com/embed/3ncuWx61f6Ptk0I57b" width="100%" height="100%" frameBorder="0" class="giphy-embed" allowFullScreen">
-</div>
