@@ -14,4 +14,6 @@ O projeto pode ser visualizado clicando aqui --> https://weybruno.github.io/Ques
 - CSS3
 - JavaScript
 
-<iframe src="https://giphy.com/embed/3ncuWx61f6Ptk0I57b" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/thumbs-up-approved-cerec-3ncuWx61f6Ptk0I57b"></a></p>
+<div>
+<img align="center" alt="resenha-pic" height="100%" style="border-radius:50px;" src="https://giphy.com/embed/3ncuWx61f6Ptk0I57b" width="100%" height="100%" frameBorder="0" class="giphy-embed" allowFullScreen">
+</div>
