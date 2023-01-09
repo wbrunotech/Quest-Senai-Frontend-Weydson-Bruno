@@ -14,4 +14,6 @@ O projeto pode ser visualizado clicando aqui --> https://weybruno.github.io/Ques
 - CSS3
 - JavaScript
 
-<iframe src="https://giphy.com/embed/NytMLKyiaIh6VH9SPm" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/GitHub-ok-thumbs-up-thumb-NytMLKyiaIh6VH9SPm">via GIPHY</a></p>
+<a href="https://giphy.com/embed/NytMLKyiaIh6VH9SPm" class="giphy-embed" alt="gif" width="480" height="360">
+  <img src="https://giphy.com/embed/NytMLKyiaIh6VH9SPm">
+</a>
