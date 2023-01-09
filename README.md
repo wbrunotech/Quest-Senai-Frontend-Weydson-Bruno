@@ -2,7 +2,7 @@
 
 {Ecommerce - Loja de Games}
 
-### Criei neste projeto de estudos do Senai: Uma Home Page de um site para uma loja fictícia especializada em Games, onde também criei uma página de login (onde criei uma validação de acesso com o JS) e uma outra de cadastro para novos usuários onde criei um formulário com CSS e um alerta de sucesso no cadastro com o JS. 
+### Criei neste projeto de estudos do Senai: Uma Home Page de um site para uma loja fictícia especializada em Games, onde também criei uma página de login (com validação de acesso no JS) e uma outra de cadastro para novos usuários onde inseri um alerta de sucesso no cadastro com o JS. 
 
 ###Usei a linguagem HTML com distribuição semântica para marcar as partes do projeto e CSS para estilizar e organizar os elementos, busquei respeitar os princípios de UI/UX e utilizei o JavaScript para realizar além das ações citadas, algumas ações de movimento nas páginas.
 
