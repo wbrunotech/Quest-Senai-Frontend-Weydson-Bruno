@@ -9,7 +9,7 @@
 ###### Page 💻
 O projeto pode ser visualizado clicando aqui --> https://weybruno.github.io/Quest-Senai-Frontend-Weydson-Bruno/
 
-####### Tecnologias utilizadas
+###### Tecnologias utilizadas
 - HTML5
 - CSS3
 - JavaScript
