@@ -1,10 +1,16 @@
-## Meu projeto é o site da WB Games, uma loja virtual especializada em venda de jogos e consoles. Neste projeto, utilizei tecnologias web como HTML, CSS e JavaScript para criar uma interface amigável e atrativa aos usuários.
+# Meu projeto é o site da WB Games, uma loja virtual especializada em venda de jogos e consoles. 
+Neste projeto, utilizei tecnologias web como HTML, CSS e JavaScript para criar uma interface amigável e atrativa aos usuários.
+
+## Acesse:
+https://wbrunotech.github.io/Quest-Senai-Frontend-Weydson-Bruno/
 
 O site conta com um menu de navegação no topo, permitindo que os usuários encontrem facilmente as seções de "Promoções", "Consoles", "Jogos" e "Login". Além disso, há um campo de busca para que os visitantes possam procurar produtos específicos.
 
-### Na seção principal do site, destaquei três banners em um carrossel, exibindo promoções e novidades de produtos. O carrossel é interativo, permitindo que os usuários avancem ou retornem para visualizar todos os banners disponíveis.
+### Na seção principal do site, destaquei três banners em um carrossel, exibindo promoções e novidades de produtos. 
+O carrossel é interativo, permitindo que os usuários avancem ou retornem para visualizar todos os banners disponíveis.
 
-Na seção "Os Mais Vendidos", destaquei três jogos populares, cada um com uma imagem, nome, descrição e preço. Para cada jogo, adicionei um botão "Comprar" para que os usuários possam adquiri-los diretamente do site.
+Na seção "Os Mais Vendidos", destaquei três jogos populares, cada um com uma imagem, nome, descrição e preço. 
+Para cada jogo, adicionei um botão "Comprar" para que os usuários possam adquiri-los diretamente do site.
 
 No rodapé do site, inseri um pequeno texto informando que o site foi "Desenvolvido por WB Games".
 
