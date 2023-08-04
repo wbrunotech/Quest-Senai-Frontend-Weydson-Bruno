@@ -1,4 +1,6 @@
-# Meu projeto é o site da WB Games, uma loja virtual especializada em venda de jogos e consoles. 
+# Meu projeto é o site WB Games.
+
+Uma loja virtual especializada em venda de jogos e consoles. 
 Neste projeto, utilizei tecnologias web como HTML, CSS e JavaScript para criar uma interface amigável e atrativa aos usuários.
 
 ## Acesse:
@@ -21,3 +23,6 @@ Também adicionei um botão "Voltar ao topo" no canto inferior direito, que leva
 O site também conta com um arquivo JavaScript ("script.js") para a implementação de algumas funcionalidades, como a rolagem suave quando o botão "Voltar ao topo" é acionado.
 
 ##### Em resumo, o objetivo deste projeto é fornecer aos visitantes uma experiência agradável e intuitiva, incentivando-os a explorar os produtos disponíveis e, eventualmente, efetuar compras na loja virtual da WB Games.
+
+###### Meu LinkedIn:
+https://www.linkedin.com/in/weydsonbruno/
