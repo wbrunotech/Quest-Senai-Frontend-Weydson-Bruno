@@ -1,4 +1,4 @@
-# Meu projeto é o site WB Games.
+# WB Games.
 
 Uma loja virtual especializada em venda de jogos e consoles. 
 Neste projeto, utilizei tecnologias web como HTML, CSS e JavaScript para criar uma interface amigável e atrativa aos usuários.
